@@ -1,0 +1,1909 @@
+[
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+        "correct_answer": "Rad Mobile",
+        "incorrect_answers": [
+            "Sonic The Hedgehog",
+            "Super Mario 64",
+            "Mega Man"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
+        "correct_answer": "Halo 3: Recon",
+        "incorrect_answers": [
+            "Halo 3: Helljumpers",
+            "Halo 3: Phantom",
+            "Halo 3: Guerilla"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which movie released in 2016 features Superman and Batman fighting?",
+        "correct_answer": "Batman v Superman: Dawn of Justice",
+        "incorrect_answers": [
+            "Batman v Superman: Superapocalypse",
+            "Batman v Superman: Black of Knight",
+            "Batman v Superman: Knightfall"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?",
+        "correct_answer": "Revolver",
+        "incorrect_answers": [
+            "Help!",
+            "Rubber Soul",
+            "Abbey Road"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
+        "correct_answer": "Six",
+        "incorrect_answers": [
+            "Seven",
+            "Five",
+            "Eight"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which French duo had UK hits in 1998 with the songs &#039;Sexy Boy&#039;, &#039;Kelly Watch The Stars&#039; &amp; &#039;All I Need&#039;?",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+            "Fire",
+            "Earth",
+            "Water"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+        "correct_answer": "Mortal Kombat",
+        "incorrect_answers": [
+            "Duke Nukem",
+            "Resident Evil",
+            "Doom"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the cancelled sequel of Team Fortress?",
+        "correct_answer": "Team Fortress 2: Brotherhood of Arms",
+        "incorrect_answers": [
+            "Team Fortress 2: Desert Mercenaries",
+            "Team Fortress 2: Operation Gear Grinder",
+            "Team Fortress 2: Return to Classic"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What alcoholic drink is made from molasses?",
+        "correct_answer": "Rum",
+        "incorrect_answers": [
+            "Gin",
+            "Vodka",
+            "Whisky"
+        ]
+    },
+    {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the world&#039;s oldest board game?",
+        "correct_answer": "Senet",
+        "incorrect_answers": [
+            "Chess",
+            "Checkers",
+            "Go"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+        "correct_answer": "Samoyedic",
+        "incorrect_answers": [
+            "Hungarian",
+            "Finnish",
+            "Estonian"
+        ]
+    },
+    {
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which Native American tribe\/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+        "correct_answer": "Yomba Shoshone Tribe",
+        "incorrect_answers": [
+            "Standing Rock Sioux Tribe",
+            "Kiowa Tribe of Oklahoma",
+            "Pawnee Nation of Oklahoma"
+        ]
+    },
+    {
+        "category": "Vehicles",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following vehicles featured a full glass roof at base model?",
+        "correct_answer": "Renault Avantime",
+        "incorrect_answers": [
+            "Chevy Volt",
+            "Mercedes-Benz A-Class",
+            "Honda Odyssey"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Excluding their instructor, how many members of Class VII are there in the game &quot;Legend of Heroes: Trails of Cold Steel&quot;?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "3"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+        "correct_answer": "The Campaigner",
+        "incorrect_answers": [
+            "The Primagen",
+            "Oblivion",
+            "Lord Tyrannus"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "If you planted the seeds of Quercus robur what would grow?",
+        "correct_answer": "Trees",
+        "incorrect_answers": [
+            "Flowers",
+            "Vegtables",
+            "Grains"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first James Bond film?",
+        "correct_answer": "Dr. No",
+        "incorrect_answers": [
+            "Goldfinger",
+            "From Russia With Love",
+            "Thunderball"
+        ]
+    },
+    {
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Thailand",
+            "Brunei",
+            "Malaysia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of the US state Nevada?",
+        "correct_answer": "Carson City",
+        "incorrect_answers": [
+            "Las Vegas",
+            "Henderson",
+            "Reno"
+        ]
+    },
+    {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these games includes the phrase  ;'Do not pass Go, do not collect;?'",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+            "Pay Day",
+            "Cluedo",
+            "Coppit"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+        "correct_answer": "Thievius Raccoonus",
+        "incorrect_answers": [
+            "Raccoon Training 101",
+            "The Art of Sneak",
+            "Raccoonus Teachus"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+        "correct_answer": "World War II",
+        "incorrect_answers": [
+            "World War I",
+            "Vietnam War",
+            "Iraq War"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is a dead mall?",
+        "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "incorrect_answers": [
+            "A mall with no stores",
+            "A mall that has been condemed",
+            "A mall after business hours"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+            "Barry",
+            "Bardsey",
+            "Caldey"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the real name of the Albanian national leader Skanderbeg?",
+        "correct_answer": "Gjergj Kastrioti",
+        "incorrect_answers": [
+            "Diturak Zhulati",
+            "Iskander Bejko",
+            "Mirash Krasniki"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many differently shaped Tetris pieces are there?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "&lt;marquee&gt;&lt;\/marquee&gt;",
+        "incorrect_answers": [
+            "&lt;scroll&gt;&lt;\/scroll&gt;",
+            "&lt;move&gt;&lt;\/move&gt;",
+            "&lt;slide&gt;&lt;\/slide&gt;"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which building was set aflame on August 24th, 1812?",
+        "correct_answer": "The White House",
+        "incorrect_answers": [
+            "Parliament Building",
+            "Grand National Assembly Building",
+            "Palace of the Nation"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was found in 1946 by two young shepards near a cave?",
+        "correct_answer": "Dead Sea Scrolls",
+        "incorrect_answers": [
+            "The Blackbeard Chest",
+            "Sheep",
+            "The First Oaxaca Cave Sleeper"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+        "correct_answer": "Orpheus",
+        "incorrect_answers": [
+            "Hercules",
+            "Perseus",
+            "Daedalus"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these game franchises were made by Namco?",
+        "correct_answer": "Tekken",
+        "incorrect_answers": [
+            "Street Fighter",
+            "Mortal Kombat",
+            "Dragon Quest"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+        "correct_answer": "Malva",
+        "incorrect_answers": [
+            "Siebold",
+            "Wikstrom",
+            "Drasna"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the oldest team in the NFL?",
+        "correct_answer": "Arizona Cardinals",
+        "incorrect_answers": [
+            "Chicago Bears",
+            "Green Bay Packers",
+            "New York Giants"
+        ]
+    },
+    {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who won Big Brother 2014 UK?",
+        "correct_answer": "Helen Wood",
+        "incorrect_answers": [
+            "Christopher Hall",
+            "Pauline Bennett",
+            "Pavandeep &quot;Pav&quot; Paul"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+        "correct_answer": "In Rainbows",
+        "incorrect_answers": [
+            "The Help Album",
+            "Skrillex and Diplo Present Jack &Uuml;",
+            "Blackstar"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+        "correct_answer": "17",
+        "incorrect_answers": [
+            "18",
+            "15",
+            "16"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What year was the RoboSapien toy robot released?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2000",
+            "2001",
+            "2006"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+        "correct_answer": "Madeira",
+        "incorrect_answers": [
+            "Terceira",
+            "Santa Maria",
+            "Porto Santo"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When was Club Penguin launched?",
+        "correct_answer": "October 24, 2005",
+        "incorrect_answers": [
+            "October 21, 2005",
+            "March 29, 2006",
+            "November 22, 2004"
+        ]
+    },
+    {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+        "correct_answer": "Christopher Eccleston",
+        "incorrect_answers": [
+            "David Tennant",
+            "Matt Smith",
+            "Tom Baker"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
+        "correct_answer": "808s &amp; Heartbreak",
+        "incorrect_answers": [
+            "Late Registration",
+            "The Life of Pablo",
+            "Graduation"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+            "John",
+            "Will",
+            "Carl"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the longest river in Europe?",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+            "Danube",
+            "Ural",
+            "Dnieper"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+        "correct_answer": "Making jams and jellies",
+        "incorrect_answers": [
+            "Teaching parrots to talk",
+            "Cheating at card games",
+            "Digging graves"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Need for Speed III: Hot Pursuit&quot;, what is the name of the fictional car?",
+        "correct_answer": "El Ni&ntilde;o",
+        "incorrect_answers": [
+            "R&aacute;pido",
+            "&Aacute;gil",
+            "La Ni&ntilde;a"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the half-life of Uranium-235?",
+        "correct_answer": "703,800,000 years",
+        "incorrect_answers": [
+            "4,300,400,000 years",
+            "1,260,900,000 years",
+            "Uranium-235 is a stable isotope"
+        ]
+    },
+    {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what year was the card game Magic: the Gathering first introduced?",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+            "1987",
+            "1998",
+            "2003"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In computing, what does LAN stand for?",
+        "correct_answer": "Local Area Network",
+        "incorrect_answers": [
+            "Long Antenna Node",
+            "Light Access Node",
+            "Land Address Navigation"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What major programming language does Unreal Engine 4 use?",
+        "correct_answer": "C++",
+        "incorrect_answers": [
+            "Assembly",
+            "C#",
+            "ECMAScript"
+        ]
+    },
+    {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+        "correct_answer": "Krill",
+        "incorrect_answers": [
+            "Lobsters",
+            "Shrimp",
+            "Crabs"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1985",
+            "1984",
+            "1995"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When was Elvis Presley born?",
+        "correct_answer": "January 8, 1935",
+        "incorrect_answers": [
+            "December 13, 1931",
+            "July 18, 1940",
+            "April 17, 1938"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Lily",
+            "French",
+            "Dakota"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which celebrity announced his presidency in 2015?",
+        "correct_answer": "Kanye West",
+        "incorrect_answers": [
+            "Donald Trump",
+            "Leonardo DiCaprio",
+            "Miley Cyrus"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which school in Surrey, England did Steve Backshall attend?",
+        "correct_answer": "Collingwood College",
+        "incorrect_answers": [
+            "Tomlinscote School",
+            "Kings International College",
+            "Lyndhurst School"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+        "correct_answer": "Bing Crosby",
+        "incorrect_answers": [
+            "Elvis Presley",
+            "Charlie Chaplin",
+            "Groucho Marx"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Gabe Newell was born in which year?",
+        "correct_answer": "1962 ",
+        "incorrect_answers": [
+            "1970",
+            "1960",
+            "1972"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?",
+        "correct_answer": "Gordon Ramsay",
+        "incorrect_answers": [
+            "Jamie Oliver",
+            "Ainsley Harriott",
+            "Antony Worrall Thompson"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+        "correct_answer": "Bobby Shmurda",
+        "incorrect_answers": [
+            "DJ Snake",
+            "Swae Lee",
+            "Young Thug"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+        "correct_answer": "Nine",
+        "incorrect_answers": [
+            "Ten",
+            "Seven",
+            "Eight"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+            "Benetton",
+            "Ferrari",
+            "Mercedes"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+        "correct_answer": "Puma",
+        "incorrect_answers": [
+            "Nike",
+            "Adidas",
+            "Reebok"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+        "correct_answer": "Hammer",
+        "incorrect_answers": [
+            "Wrench",
+            "Drill",
+            "Screwdriver"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+        "correct_answer": "Leicester City",
+        "incorrect_answers": [
+            "Northampton Town",
+            "Bradford City",
+            "West Bromwich Albion"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many soccer players should be on the field at the same time?",
+        "correct_answer": "22",
+        "incorrect_answers": [
+            "20",
+            "24",
+            "26"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In what sport is a &quot;shuttlecock&quot; used?",
+        "correct_answer": "Badminton",
+        "incorrect_answers": [
+            "Table Tennis",
+            "Rugby",
+            "Cricket"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which team won the 2015-16 English Premier League?",
+        "correct_answer": "Leicester City",
+        "incorrect_answers": [
+            "Liverpool",
+            "Cheslea",
+            "Manchester United"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A stimpmeter measures the speed of a ball over what surface?",
+        "correct_answer": "Golf Putting Green",
+        "incorrect_answers": [
+            " Football Pitch",
+            "Cricket Outfield",
+            "Pinball Table"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which nation hosted the FIFA World Cup in 2006?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "United Kingdom",
+            "Brazil",
+            "South Africa"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The F1 season of 1994 is remembered for what tragic event?",
+        "correct_answer": "Death of Ayrton Senna (San Marino)",
+        "incorrect_answers": [
+            "The Showdown (Australia)",
+            "Verstappen on Fire (Germany)",
+            "Schumacher&#039;s Ban (Britain)"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which country is hosting the 2022 FIFA World Cup?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "Uganda",
+            "Vietnam",
+            "Bolivia"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+        "correct_answer": "7 - 1",
+        "incorrect_answers": [
+            "0 - 1",
+            "3 - 4",
+            "16 - 0"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which team was the 2015-2016 NBA Champions?",
+        "correct_answer": "Cleveland Cavaliers",
+        "incorrect_answers": [
+            "Golden State Warriors",
+            "Toronto Raptors",
+            "Oklahoma City Thunders"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Where was the Games of the XXII Olympiad held?",
+        "correct_answer": "Moscow",
+        "incorrect_answers": [
+            "Barcelona",
+            "Tokyo",
+            "Los Angeles"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Josh Mansour is part of what NRL team?",
+        "correct_answer": "Penrith Panthers",
+        "incorrect_answers": [
+            "Melbourne Storm",
+            "Sydney Roosters",
+            "North Queensland Cowboys"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+        "correct_answer": "Porsche",
+        "incorrect_answers": [
+            "Toyota",
+            "Audi",
+            "Ferrari"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+        "correct_answer": "Pelle",
+        "incorrect_answers": [
+            "Insigne",
+            "Barzagli",
+            "Giaccherini"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "Ma Long (China)",
+        "incorrect_answers": [
+            "Zhang Jike (China)",
+            "Jun Mizutani (Japan)",
+            "Vladimir Samsonov (Belarus)"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "DING Ning (China)",
+        "incorrect_answers": [
+            "LI Xiaoxia (China)",
+            "Ai FUKUHARA (Japan)",
+            "Song KIM (North Korea)"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Argentina",
+            "Brazil",
+            "Colombia"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What national team won the 2016 edition of UEFA European Championship?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "France",
+            "Germany",
+            "England"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+        "correct_answer": "Mercedes-AMG Petronas",
+        "incorrect_answers": [
+            "Scuderia Ferrari",
+            "McLaren Honda",
+            "Red Bull Racing Renault"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+        "correct_answer": "Quebec City",
+        "incorrect_answers": [
+            "Houston",
+            "Montreal",
+            "New York"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the oldest team in Major League Baseball?",
+        "correct_answer": "Atlanta Braves",
+        "incorrect_answers": [
+            "Chicago Cubs",
+            "Cincinnati Reds",
+            "St. Louis Cardinals"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+        "correct_answer": "Jules Bianchi",
+        "incorrect_answers": [
+            "Ayrton Senna",
+            "Ronald Ratzenberger",
+            "Gilles Villeneuve"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+        "correct_answer": "US Open",
+        "incorrect_answers": [
+            "French Open",
+            "Wimbledon",
+            "Australian Open"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+            "2008",
+            "2009",
+            "2011"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+        "correct_answer": "84.39m",
+        "incorrect_answers": [
+            "100m",
+            "100yd",
+            "109.36yd"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+        "correct_answer": "Don Cherry",
+        "incorrect_answers": [
+            "Don McKellar",
+            "Don Taylor ",
+            "Donald Sutherland"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+        "correct_answer": "Madeira",
+        "incorrect_answers": [
+            "Terceira",
+            "Santa Maria",
+            "Porto Santo"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What year was hockey legend Wayne Gretzky born?",
+        "correct_answer": "1961",
+        "incorrect_answers": [
+            "1965",
+            "1959",
+            "1963"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which year was the third Super Bowl held?",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+            "1968",
+            "1971",
+            "1970"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Why was The Green Monster at Fenway Park was originally built?",
+        "correct_answer": "To prevent viewing games from outside the park.",
+        "incorrect_answers": [
+            "To make getting home runs harder.",
+            "To display advertisements.",
+            "To provide extra seating."
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+        "correct_answer": "Shaquille O&#039;Neal",
+        "incorrect_answers": [
+            "Allen Iverson",
+            "Kobe Bryant",
+            "Paul Pierce"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+        "correct_answer": "Mike Tyson",
+        "incorrect_answers": [
+            "Roy Jones Jr.",
+            "Evander Holyfield",
+            "Lennox Lewis"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what sport does Fanny Chmelar compete for Germany?",
+        "correct_answer": "Skiing",
+        "incorrect_answers": [
+            "Swimming",
+            "Showjumping",
+            "Gymnastics"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+        "correct_answer": "Fastball",
+        "incorrect_answers": [
+            "Slowball",
+            "Screwball",
+            "Palmball"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What team did England beat to win in the 1966 World Cup final?",
+        "correct_answer": "West Germany",
+        "incorrect_answers": [
+            "Soviet Union",
+            "Portugal",
+            "Brazil"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "4",
+            "9",
+            "2"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which player holds the NHL record of 2,857 points?",
+        "correct_answer": "Wayne Gretzky",
+        "incorrect_answers": [
+            "Mario Lemieux ",
+            "Sidney Crosby",
+            "Gordie Howe"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "11",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Manchester United&#039;s home stadium?",
+        "correct_answer": "Old Trafford",
+        "incorrect_answers": [
+            "Anfield",
+            "City of Manchester Stadium",
+            "St James Park"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+        "correct_answer": "Wayne Rooney",
+        "incorrect_answers": [
+            "Cristiano Ronaldo",
+            "Robin Van Persie",
+            "David Beckham"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+        "correct_answer": "Owen Hart",
+        "incorrect_answers": [
+            "Chris Benoit",
+            "Lex Luger",
+            "Al Snow"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+        "correct_answer": "Sunderland FC",
+        "incorrect_answers": [
+            "Barcelona FC",
+            "Paris Saints-Germain",
+            "Manchester United"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+        "correct_answer": "61",
+        "incorrect_answers": [
+            "65",
+            "63",
+            "67"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who won the UEFA Champions League in 2016?",
+        "correct_answer": "Real Madrid C.F.",
+        "incorrect_answers": [
+            "FC Bayern Munich",
+            "Atletico Madrid",
+            "Manchester City F.C."
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+        "correct_answer": "1-7",
+        "incorrect_answers": [
+            "1-5",
+            "1-6",
+            "2-6"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which two teams played in Super Bowl XLII?",
+        "correct_answer": "The New York Giants &amp; The New England Patriots",
+        "incorrect_answers": [
+            "The Green Bay Packers &amp; The Pittsburgh Steelers",
+            "The Philadelphia Eagles &amp; The New England Patriots",
+            "The Seattle Seahawks &amp; The Denver Broncos"
+        ]
+    },{
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+            "Mario",
+            "Zelda",
+            "Pit"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What year was the game Team Fortress 2 released?",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+            "2009",
+            "2005",
+            "2010"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
+        "correct_answer": "Dollar Flu",
+        "incorrect_answers": [
+            "Ebola",
+            "Red Poison",
+            "Smallpox"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+        "correct_answer": "Zero Wing",
+        "incorrect_answers": [
+            "F-Zero",
+            "Wing Commander",
+            "Star Wars: X-Wing"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+        "correct_answer": "Lamar",
+        "incorrect_answers": [
+            "Trevor",
+            "Michael",
+            "Franklin"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
+        "correct_answer": "1.5 Million",
+        "incorrect_answers": [
+            "1 Million",
+            "250 Thousand",
+            "Less than 250 Thousand"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which video game was recalled for containing a hidden, playable South Park episode?",
+        "correct_answer": "Tiger Woods 99 PGA Tour",
+        "incorrect_answers": [
+            "Tony Hawk&#039;s Pro Skater 3",
+            "Sonic Adventure",
+            "Madden 99"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?",
+        "correct_answer": "Beowulf",
+        "incorrect_answers": [
+            "Big Band",
+            "Squigly",
+            "Cerebella"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+        "correct_answer": "2, 3, 1",
+        "incorrect_answers": [
+            "1, 2, 3",
+            "1, 3, 2",
+            "2, 1, 3"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What ingredient is NOT used to craft a cake in Minecraft?",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+            "Wheat",
+            "Milk",
+            "Egg"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+        "correct_answer": "Invoker",
+        "incorrect_answers": [
+            "Mercy",
+            "Winston",
+            "Zenyatta"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+        "correct_answer": "18",
+        "incorrect_answers": [
+            "13",
+            "16",
+            "15"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these Counter-Strike maps is a bomb defuse scenario?",
+        "correct_answer": "Prodigy",
+        "incorrect_answers": [
+            "747",
+            "Havana",
+            "Oilrig"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What two characters from the game Undertale are never in a relationship or not related?",
+        "correct_answer": "Frisk &amp; Chara",
+        "incorrect_answers": [
+            "Sans &amp; Papyrus",
+            "Toriel &amp; Asgore",
+            "Alphys &amp; Undyne"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the founder of Team Fortress 2&#039;s fictional company &quot;Mann Co&quot;?",
+        "correct_answer": "Zepheniah Mann",
+        "incorrect_answers": [
+            "Cave Johnson",
+            "Wallace Breem",
+            "Saxton Hale"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the creator of the Super Smash Bros. Series?",
+        "correct_answer": "Masahiro Sakurai",
+        "incorrect_answers": [
+            "Reggie Fils-Aim&eacute;",
+            "Bill Trinen",
+            "Hideo Kojima"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+        "correct_answer": "Policenauts",
+        "incorrect_answers": [
+            "Gradius",
+            "Contra",
+            "Castlevania: Symphony of the Night"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Gordon Freeman is said to have burnt and destroyed what food in the break room microwave?",
+        "correct_answer": "Casserole",
+        "incorrect_answers": [
+            "Sub Sandwich",
+            "Chicken Soup",
+            "Pepperoni Pizza"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
+        "correct_answer": "Dragon King: The Fighting Game",
+        "incorrect_answers": [
+            "Contest of Champions",
+            "Smash and Pummel",
+            "Fighter of the Ages: Conquest"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+        "correct_answer": "The Enclave",
+        "incorrect_answers": [
+            "The Minutemen",
+            "The Brotherhood of Steel",
+            "The Institute"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these is NOT a playable character race in the video game &quot;Starbound&quot;?",
+        "correct_answer": "Fenerox",
+        "incorrect_answers": [
+            "Floran",
+            "Novakid",
+            "Hylotl"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+        "correct_answer": "Emeralds",
+        "incorrect_answers": [
+            "Diamonds",
+            "Iron",
+            "Leather"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+        "correct_answer": "Towelie",
+        "incorrect_answers": [
+            "Jesus",
+            "Mr. Hankey",
+            "Mr. Slave"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+        "correct_answer": "Dagger",
+        "incorrect_answers": [
+            "Dirk",
+            "Garnet",
+            "Quina"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which company did Bethesda purchase the Fallout Series from?",
+        "correct_answer": "Interplay Entertainment ",
+        "incorrect_answers": [
+            "Capcom",
+            "Blizzard Entertainment",
+            "Nintendo"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the world&#039;s first handheld game device?",
+        "correct_answer": "Mattel Auto Race",
+        "incorrect_answers": [
+            "Game Boy",
+            "Microvision",
+            "Game &amp; Watch"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+        "correct_answer": "Crawfish",
+        "incorrect_answers": [
+            "Lobster",
+            "Salmon",
+            "Swordfish"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of the main character in &quot;Life is Strange&quot;?",
+        "correct_answer": "Maxine Caulfield",
+        "incorrect_answers": [
+            "Victoria Chase",
+            "Stella Hill",
+            "Chloe Price"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+        "correct_answer": "7355608",
+        "incorrect_answers": [
+            "7890728",
+            "7256380",
+            "7726354"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?",
+        "correct_answer": "Corrin",
+        "incorrect_answers": [
+            "Cloud",
+            "Bayonnetta",
+            "Ryu"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Overwatch, how old is Reinhardt Wilhelm?",
+        "correct_answer": "61",
+        "incorrect_answers": [
+            "59",
+            "65",
+            "62"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+        "correct_answer": "Continuum",
+        "incorrect_answers": [
+            "GIFU",
+            "Santos Dexterity",
+            "eRa Eternity"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+        "correct_answer": "17",
+        "incorrect_answers": [
+            "18",
+            "15",
+            "16"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+        "correct_answer": "IDCLIP",
+        "incorrect_answers": [
+            "IDFA",
+            "IDDQD",
+            "IDSPISPOPD"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What game was used to advertise Steam?",
+        "correct_answer": "Counter-Strike 1.6",
+        "incorrect_answers": [
+            "Half-Life",
+            "Half-Life 2",
+            "Team Fortress"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which monster in &quot;Monster Hunter Tri&quot; was causing earthquakes in Moga Village?",
+        "correct_answer": "Ceadeus",
+        "incorrect_answers": [
+            "Alatreon",
+            "Rathalos",
+            "Lagiacrus"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When was Club Penguin launched?",
+        "correct_answer": "October 24, 2005",
+        "incorrect_answers": [
+            "October 21, 2005",
+            "March 29, 2006",
+            "November 22, 2004"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Starbound&quot;, what is the max HP of the monster &quot;Punchy&quot;?",
+        "correct_answer": "50,000 HP",
+        "incorrect_answers": [
+            "9,000,000 HP",
+            "100 HP",
+            "150,000 HP"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+        "correct_answer": "Semper Fi",
+        "incorrect_answers": [
+            "Ring of Steel",
+            "Vendetta",
+            "Eviction"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+        "correct_answer": "1,000,000 XP",
+        "incorrect_answers": [
+            "Juggernog at the start of each game",
+            "50 Liquid Diviniums",
+            "All three options."
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
+        "correct_answer": "Showdown",
+        "incorrect_answers": [
+            "Hadouken",
+            "Organ Grinder",
+            "Skewer"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the 8th installment in the Fire Emblem series?",
+        "correct_answer": "The Sacred Stones",
+        "incorrect_answers": [
+            "Blazing Sword",
+            "Awakening",
+            "Path of Radiance"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the original release date of Grand Theft Auto V?",
+        "correct_answer": "September 17, 2013",
+        "incorrect_answers": [
+            "August 17, 2013",
+            "April 14, 2015",
+            "November 18, 2014"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
+        "correct_answer": "Illumise",
+        "incorrect_answers": [
+            "Infernape",
+            "Ivysaur",
+            "Igglybuff"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+        "correct_answer": "Jynx",
+        "incorrect_answers": [
+            "Electabuzz",
+            "Magmar",
+            "Rhydon"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",
+        "correct_answer": "Dallas",
+        "incorrect_answers": [
+            "Wolf",
+            "Chains",
+            "Hoxton"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In &quot;Kingdom Hearts&quot;, what mission are Donald and Goofy assigned by King Mickey?",
+        "correct_answer": "To find the Key bearer and stick with him!",
+        "incorrect_answers": [
+            "To find the Key bearer and steal the key!",
+            "To find the Key bearer and report back!",
+            "To find the Key bearer and kill him!"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+        "correct_answer": "Super Mario 64",
+        "incorrect_answers": [
+            "Mario Party 2",
+            "Paper Mario",
+            "Super Smash Bros."
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "6",
+            "18",
+            "10"
+        ]
+    }
+]
